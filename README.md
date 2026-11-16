@@ -35,8 +35,8 @@ Built at **HackUMass XIV** (November 2026).
 ### 1. Download
 
 ```bash
-git clone https://github.com/<your-username>/handsfree-studio.git
-cd handsfree-studio
+git clone https://github.com/HariKoor/HandsFreeStudio.git
+cd HandsFreeStudio
 ```
 
 You can also click **Code ▸ Download ZIP** on GitHub, unzip it, and `cd` into the folder.
